@@ -6,7 +6,7 @@
 
 [![Discord](https://img.shields.io/discord/1272545509562777621?label=Discord&logo=discord&logoColor=white)]()
 [![Steam](https://img.shields.io/badge/Steam-SS14%20-blue)](https://store.steampowered.com/app/1255460/Space_Station_14/)
-[![GitHub](https://img.shields.io/github/stars/ss14Starlight/space-station-14?style=social)]([https://github.com/ss14ZetaStation/space-station-14])
+[![GitHub](https://img.shields.io/github/stars/ss14ZetaStation/space-station-14?style=social)]([https://github.com/ss14ZetaStation/space-station-14])
 
 # Zeta Station  
 <sub>Space-Station 14</sub>
@@ -23,10 +23,6 @@ This is a game about surviving on a space station filled with lots of REAL PLAYE
 ## Space-Station 14 Documentation/Wiki
 
 Space-Station 14 has [documentation](https://docs.spacestation14.io/) on SS14s content, engine, game design and more.
-
-## Project Activity
-![Alt](https://repobeats.axiom.co/api/embed/6d9d589842ff6980c7972b18cf09d8b5b0365de5.svg "Repobeats analytics image")
-
 ---
 
 ## License
