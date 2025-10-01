@@ -4,27 +4,25 @@
 
 <div class="header" align="center">
 
-[![Discord](https://img.shields.io/discord/1272545509562777621?label=Discord&logo=discord&logoColor=white)](https://discord.gg/ssJTANEa)
+[![Discord](https://img.shields.io/discord/1272545509562777621?label=Discord&logo=discord&logoColor=white)](https://discord.gg/ssJTANEa) #Starlight discord NOT Zeda station discord(working on one :) )
 [![Steam](https://img.shields.io/badge/Steam-SS14%20-blue)](https://store.steampowered.com/app/1255460/Space_Station_14/)
-[![Client](https://img.shields.io/badge/Client-Download-blue)](https://spacestation14.io/about/nightlies/)
-[![GitHub](https://img.shields.io/github/stars/ss14Starlight/space-station-14?style=social)]([https://github.com/ss14Starlight/space-station-14])
+[![GitHub](https://img.shields.io/github/stars/ss14Starlight/space-station-14?style=social)]([https://github.com/ss14ZetaStation/space-station-14])
 
-# STARLIGHT  
+# Zeta Station  
 <sub>Space-Station 14</sub>
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ss14Starlight/space-station-14)
-![GitHub Issues](https://img.shields.io/github/issues/ss14Starlight/space-station-14)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr-closed/ss14Starlight/space-station-14)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ss14ZetaStation/space-station-14)
+![GitHub Issues](https://img.shields.io/github/issues/ss14ZetaStation/space-station-14)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr-closed/ss14ZetaStation/space-station-14)
 
 </div>
 
-STARLIGHT is an open source project aimed at creating unique mechanics and a pleasant game atmosphere in the game Space Station 14, 
-
-a game about survival on a space station where there are constant confrontations between the crew and antagonists created to prevent the crew from achieving their goals.
+Zeta Station is an open-source version of [STARLIGHT](https://github.com/ss14Starlight/space-station-14). Aimed at creating a fun experience for players! 
+This is a game about surviving on a space station filled with lots of REAL PLAYERS, your task is to keep the station afloat(unless you are an antag >:3) 
 
 ## Space-Station 14 Documentation/Wiki
 
-Space-Station 14 has [docs site](https://docs.spacestation14.io/) documentation on SS14s content, engine, game design and more. We also have lots of resources for new contributors to the project.
+Space-Station 14 has [documentation](https://docs.spacestation14.io/) on SS14s content, engine, game design and more.
 
 ## Project Activity
 ![Alt](https://repobeats.axiom.co/api/embed/6d9d589842ff6980c7972b18cf09d8b5b0365de5.svg "Repobeats analytics image")
@@ -34,7 +32,7 @@ Space-Station 14 has [docs site](https://docs.spacestation14.io/) documentation 
 ## License
 
 > [!CAUTION]
-> The repository code is licensed both under MIT - this applies to Space Wizards Federation code - and under modified MIT - this applies to our changes.
+> The repository code is licensed both under MIT - this applies to Space Wizards Federation code and our code - and under modified MIT - this applies to Starlight code.
 
 ### Click each banner for further information
 
